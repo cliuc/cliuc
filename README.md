@@ -1,7 +1,7 @@
 👋 Hi, I’m Chris!
 
-- 📖 I'm a statistics major at Cal Poly
-- 🌱 I’m currently learning R, SQL
+- 📖 I'm a statistics major at [Cal Poly](www.calpoly.edu)
+- 🌱 I’m currently learning R
 - 💬 I would love to chat!
 - 📫 cliu119@calpoly.edu
 
