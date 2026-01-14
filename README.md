@@ -1,7 +1,7 @@
 👋 Hi, I’m Chris!
 
 - 📖 I'm a statistics major at <a href="https://www.calpoly.edu/" target="_blank">Cal Poly</a>
-- 💬 I would love to chat!
+- 💬 I'm always happy to chat about anything statistics, data science, and more!
 - 📫 cliu119[at]calpoly[dot]edu
 
 <!---
