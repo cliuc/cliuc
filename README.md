@@ -1,6 +1,6 @@
 Hi, I’m Chris!
 
-- Statistics major at <a href="https://www.calpoly.edu/" target="_blank">Cal Poly</a>
+- Statistics undergrad at <a href="https://www.calpoly.edu/" target="_blank">Cal Poly</a>
 - cliu119[at]calpoly[dot]edu
 
 <!---
